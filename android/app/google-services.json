@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "508220552077",
+    "project_id": "fyp-pt",
+    "storage_bucket": "fyp-pt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508220552077:android:872e0ef0644dcd402fc3c4",
+        "android_client_info": {
+          "package_name": "com.dh.pt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508220552077-hqiivn57751f3d85rh27mfh46jgih6ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjglAu-JvXUF_KcXq65ry-HzAji3EpR1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508220552077-hqiivn57751f3d85rh27mfh46jgih6ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508220552077:android:37630b4df037c9ae2fc3c4",
+        "android_client_info": {
+          "package_name": "com.dh.ujianpsikometrik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508220552077-hqiivn57751f3d85rh27mfh46jgih6ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjglAu-JvXUF_KcXq65ry-HzAji3EpR1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508220552077-hqiivn57751f3d85rh27mfh46jgih6ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

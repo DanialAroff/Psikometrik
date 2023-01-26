@@ -1,0 +1,923 @@
+[
+ {
+  "BIL.": 1,
+  "ITEM": "Saya bersedia menerima sebarang tugasan.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 2,
+  "ITEM": "Idea­idea saya dianggap kreatif.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 3,
+  "ITEM": "Saya berani meluahkan perasaan kepada orang lain.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 4,
+  "ITEM": "Saya selesa berada dalam khalayak ramai.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 5,
+  "ITEM": "Kejayaan adalah matlamat utama saya.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 6,
+  "ITEM": "Saya mudah menyesuaikan diri dengan suasana baharu.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 7,
+  "ITEM": "Saya suka menelaah bahan ilmiah.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 8,
+  "ITEM": "Saya suka mengetuai kumpulan dalam melaksanakan aktiviti.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 9,
+  "ITEM": "Saya memastikan tempat belajar saya kelihatan kemas.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 10,
+  "ITEM": "Saya seorang yang bersemangat tinggi.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 11,
+  "ITEM": "Saya suka menderma.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 12,
+  "ITEM": "Saya suka menilai tingkah laku orang lain.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 13,
+  "ITEM": "Saya tidak berbakat.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 14,
+  "ITEM": "Saya seorang yang berpandangan jauh.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ {
+  "BIL.": 15,
+  "ITEM": "Saya sentiasa berkata benar dalam apa juga keadaan.",
+  "RESPON": "YA",
+  "Column6": "TIDAK"
+ },
+ null,
+ null,
+ {
+  "BIL.": "BIL.",
+  "ITEM": "ITEM",
+  "Column3": "RESPON"
+ },
+ {
+  "BIL.": 16,
+  "ITEM": "Kehidupan saya banyak didorong oleh kemahuan diri sendiri.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 17,
+  "ITEM": "Saya boleh memberikan idea yang unik.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 18,
+  "ITEM": "Saya berani mempertahankan pendapat saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 19,
+  "ITEM": "Saya sentiasa bersemangat apabila bersama-­­sama orang ramai.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 20,
+  "ITEM": "Kejayaan memberi kepuasan kepada saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 21,
+  "ITEM": "Saya mengisi masa lapang dengan melakukan pelbagai aktiviti.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 22,
+  "ITEM": "Saya suka dengan pengetahuan baharu.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 23,
+  "ITEM": "Saya suka dihargai sebagai ketua.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 24,
+  "ITEM": "Saya membuat tugasan dengan teliti.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 25,
+  "ITEM": "Saya tekun melakukan sesuatu tugasan dalam tempoh yang lama.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 26,
+  "ITEM": "Saya suka mencari jalan untuk membantu rakan saya yang sakit.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 27,
+  "ITEM": "Saya teliti dalam membuat pertimbangan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 28,
+  "ITEM": "Saya tidak ada potensi diri.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 29,
+  "ITEM": "Saya bersemangat datang ke sekolah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 30,
+  "ITEM": "Saya tidak pernah gagal.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 31,
+  "ITEM": "Saya tahu memanfaatkan masa saya ketika waktu lapang.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 32,
+  "ITEM": "Saya suka menghadiri pameran inovasi.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 33,
+  "ITEM": "Saya mudah marah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 34,
+  "ITEM": "Saya selesa menghadapi suasana yang bising dan riuh-­­rendah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 35,
+  "ITEM": "Saya suka menyertai sebarang bentuk pertandingan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 36,
+  "ITEM": "Saya mudah menyesuaikan diri dengan budaya yang berbeza.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 37,
+  "ITEM": "Saya suka permainan yang mencabar minda.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 38,
+  "ITEM": "Saya tegas dalam membuat keputusan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 39,
+  "ITEM": "Saya suka kepada kerja rutin.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 40,
+  "ITEM": "Saya tetap meneruskan kerja yang sukar walaupun orang lain telah menarik diri.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 41,
+  "ITEM": "Saya suka menolong untuk menggembirakan orang lain.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 42,
+  "ITEM": "Saya akan mempertimbangkan sesuatu perkara sebelum membuat keputusan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 43,
+  "ITEM": "Saya selalu merasa rendah diri.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 44,
+  "ITEM": "Saya tahu menggunakan potensi yang ada di dalam diri saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 45,
+  "ITEM": "Saya tidak kisah jika orang lain merampas hak saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 46,
+  "ITEM": "Saya mengetahui kekuatan diri saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 47,
+  "ITEM": "Saya boleh menghasilkan sesuatu yang baharu daripada idea lama.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 48,
+  "ITEM": "Saya akan pastikan semua orang akur dengan arahan saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 49,
+  "ITEM": "Saya seorang yang bersifat terbuka.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 50,
+  "ITEM": "Saya mempunyai matlamat yang jelas.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 51,
+  "ITEM": "Saya suka melakukan pelbagai aktiviti.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 52,
+  "ITEM": "Saya suka mengikuti perkembangan tokoh-­­tokoh ilmuan negara.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 53,
+  "ITEM": "Rakan-­­rakan patuh setiap arahan daripada saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 54,
+  "ITEM": "Saya seronok dengan kerja yang memerlukan penelitian.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 55,
+  "ITEM": "Saya tidak mudah menyerah kalah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 56,
+  "ITEM": "Saya selalu menolong ibu bapa membuat kerja-­­kerja di rumah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 57,
+  "ITEM": "Saya selalu memikirkan kesan baik atau buruk sesuatu tindakan yang saya lakukan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 58,
+  "ITEM": "Saya tidak selesa orang lain memuji saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 59,
+  "ITEM": "Saya menetapkan matlamat setiap kali peperiksaan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 60,
+  "ITEM": "Saya tidak pernah melanggar peraturan sekolah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 61,
+  "ITEM": "Saya tidak perlu menunggu arahan untuk memulakan sesuatu kerja.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 62,
+  "ITEM": "Saya suka bahan grafik.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 63,
+  "ITEM": "Saya sentiasa betul.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 64,
+  "ITEM": "Saya suka menerima penghargaan secara terbuka.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 65,
+  "ITEM": "Bagi saya kejayaan itu tiada hadnya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 66,
+  "ITEM": "Saya mudah jemu menyelesaikan tugasan yang sama.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 67,
+  "ITEM": "Saya suka menonton rancangan dokumentari.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 68,
+  "ITEM": "Saya tegas dalam memimpin kumpulan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 69,
+  "ITEM": "Saya mementingkan disiplin diri.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 70,
+  "ITEM": "Saya seorang yang konsisten.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 71,
+  "ITEM": "Saya suka melibatkan diri dalam program gotong-­­royong.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 72,
+  "ITEM": "Saya akan menyelidiki sesuatu perkara terlebih dahulu sebelum mempercayainya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 73,
+  "ITEM": "Saya bimbang jika diberi sebarang jawatan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 74,
+  "ITEM": "Saya memiliki daya imaginasi yang tinggi.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 75,
+  "ITEM": "Saya tidak pernah cemburu dengan kelebihan orang lain.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ null,
+ null,
+ {
+  "BIL.": "BIL.",
+  "ITEM": "ITEM",
+  "Column3": "RESPON"
+ },
+ {
+  "BIL.": 76,
+  "ITEM": "Saya bertanggungjawab ke atas setiap tugasan yang diamanahkan kepada saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 77,
+  "ITEM": "Saya banyak memberikan idea-­­idea bernas.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 78,
+  "ITEM": "Saya menguasai setiap perbincangan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 79,
+  "ITEM": "Saya pandai menarik perhatian.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 80,
+  "ITEM": "Penghargaan boleh menyemarakkan semangat saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 81,
+  "ITEM": "Saya suka mencuba pelbagai jenis makanan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 82,
+  "ITEM": "Saya suka membaca pencapaian tokoh ilmuan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 83,
+  "ITEM": "Saya menjadi rujukan kawan-­­kawan dalam menyelesaikan masalah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 84,
+  "ITEM": "Saya mementingkan ketepatan masa ketika menghadiri majlis keraian.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 85,
+  "ITEM": "Saya sentiasa bersemangat melaksanakan tanggungjawab yang sukar.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 86,
+  "ITEM": "Saya sedaya upaya membantu orang lain.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 87,
+  "ITEM": "Saya akan memikirkan secara mendalam untuk setiap tindakan saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 88,
+  "ITEM": "Saya percaya kawan saya lebih baik daripada saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 89,
+  "ITEM": "Saya mengatur strategi untuk mencipta kejayaan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 90,
+  "ITEM": "Saya tidak pernah stres.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 91,
+  "ITEM": "Saya akan merebut peluang mengikut keinginan saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 92,
+  "ITEM": "Saya membuat nota berbentuk grafik.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 93,
+  "ITEM": "Matlamat saya lebih penting daripada menjaga hati kawan-­­kawan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 94,
+  "ITEM": "Saya selesa berkongsi perasaan dengan orang lain.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 95,
+  "ITEM": "Saya mengikuti perkembangan individu yang berjaya melalui media sosial.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 96,
+  "ITEM": "Saya suka melakukan sesuatu yang berbeza daripada kebiasaan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 97,
+  "ITEM": "Saya suka mengisi masa lapang dengan membuat rujukan ilmiah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 98,
+  "ITEM": "Saya berpegang pada prinsip.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 99,
+  "ITEM": "Saya menyenaraikan tugasan yang perlu dilaksanakan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 100,
+  "ITEM": "Saya tidak akan mengalah selagi matlamat belum tercapai.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 101,
+  "ITEM": "Saya suka menyumbangkan tenaga dalam aktiviti kelab atau persatuan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 102,
+  "ITEM": "Saya boleh menyelesaikan masalah yang rumit.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 103,
+  "ITEM": "Saya selalu berfikiran negatif.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 104,
+  "ITEM": "Kegagalan bagi saya adalah satu peluang.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 105,
+  "ITEM": "Saya tidak pernah kecewa walaupun menghadapi kegagalan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 106,
+  "ITEM": "Saya boleh menangguhkan keperluan diri saya apabila ada perkara yang lebih penting.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 107,
+  "ITEM": "Hasil kerja saya sering mendapat pujian.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 108,
+  "ITEM": "Saya cepat marah apabila kawan-­­kawan mempermainkan saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 109,
+  "ITEM": "Saya suka mendapat perhatian.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 110,
+  "ITEM": "Saya yakin boleh berjaya walaupun bekerja dalam situasi yang tertekan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 111,
+  "ITEM": "Saya mudah bosan dengan aktiviti yang sama.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 112,
+  "ITEM": "Saya suka menonton rancangan berunsur sains dan teknologi.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 113,
+  "ITEM": "Saya menjadi pakar rujuk dalam membuat keputusan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 114,
+  "ITEM": "Saya menitikberatkan tentang pengurusan masa.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 115,
+  "ITEM": "Saya mampu menguruskan sesuatu dengan jayanya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 116,
+  "ITEM": "Saya suka membantu rakan-­­rakan saya semasa aktiviti berkumpulan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 117,
+  "ITEM": "Saya suka melihat sesuatu perkara daripada pelbagai perspektif.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 118,
+  "ITEM": "Saya selalu tidak dapat membuat keputusan yang betul.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 119,
+  "ITEM": "Saya beranggapan bahawa setiap halangan adalah cabaran yang menyeronokkan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 120,
+  "ITEM": "Saya tidak pernah meninggikan suara dengan orang lain.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ null,
+ null,
+ {
+  "BIL.": "BIL.",
+  "ITEM": "ITEM",
+  "Column3": "RESPON"
+ },
+ {
+  "BIL.": 121,
+  "ITEM": "Saya boleh menyesuaikan diri dengan perubahan keadaan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 122,
+  "ITEM": "Saya boleh memikirkan pelbagai bentuk penyelesaian masalah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 123,
+  "ITEM": "Saya rimas bila dikongkong.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 124,
+  "ITEM": "Saya akan mencari masa untuk bersama-­­sama dengan rakan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 125,
+  "ITEM": "Saya suka mencabar diri dengan melakukan sesuatu di luar kemampuan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 126,
+  "ITEM": "Saya suka menukar susun atur perabot di bilik tidur.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 127,
+  "ITEM": "Saya suka mencari jawapan terhadap sesuatu kejadian.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 128,
+  "ITEM": "Saya prihatin terhadap rakan saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 129,
+  "ITEM": "Saya berupaya melaksanakan kerja yang sama secara berulang.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 130,
+  "ITEM": "Saya mempunyai semangat juang yang tinggi.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 131,
+  "ITEM": "Saya suka melakukan kerja-­­kerja kebajikan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 132,
+  "ITEM": "Saya memikirkan implikasi bagi setiap tindakan yang saya lakukan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 133,
+  "ITEM": "Walaupun saya telah membuat persediaan saya masih berasa takut.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 134,
+  "ITEM": "Saya sentiasa berusaha untuk mencapai kecemerlangan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 135,
+  "ITEM": "Saya tidak pernah marah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 136,
+  "ITEM": "Kesedaran kendiri mendorong saya untuk melakukan sesuatu tindakan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 137,
+  "ITEM": "Tugasan saya dipuji kerana menggunakan pelbagai sumber media.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 138,
+  "ITEM": "Tiada siapa yang boleh menghalang kehendak saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 139,
+  "ITEM": "Saya akan bertindak segera apabila saya rasa perlu.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 140,
+  "ITEM": "Kejayaan meningkatkan motivasi diri saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 141,
+  "ITEM": "Saya suka melakukan sesuatu yang berbeza setiap hari.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 142,
+  "ITEM": "Saya suka menghadiri program yang berbentuk ilmiah.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 143,
+  "ITEM": "Saya suka membimbing orang lain dalam membuat keputusan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 144,
+  "ITEM": "Saya suka membuat tugasan mengikut jadual yang telah dirancang terlebih dahulu.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 145,
+  "ITEM": "Saya akan memastikan tugasan dibuat sehingga selesai.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 146,
+  "ITEM": "Saya sedia menerima tugasan yang melibatkan aktiviti kokurikulum.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 147,
+  "ITEM": "Saya suka mencari maklumat tentang sesuatu kejadian.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 148,
+  "ITEM": "Saya tidak selesa orang memberi perhatian kepada saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 149,
+  "ITEM": "Guru sering memuji kualiti tugasan saya.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ },
+ {
+  "BIL.": 150,
+  "ITEM": "Saya tidak pernah ditegur jika melakukan kesilapan.",
+  "Column3": "YA",
+  "Column5": "TIDAK"
+ }
+]
