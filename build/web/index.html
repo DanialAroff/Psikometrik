@@ -49,7 +49,7 @@
     //   waitSeconds: 200,
     // });
 
-    var serviceWorkerVersion = '1591754039';
+    var serviceWorkerVersion = '735170489';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -69,8 +69,9 @@
         // Otherwise, the browser will load the script multiple times,
         // potentially different versions.
         // var serviceWorkerUrl = 'flutter_service_worker.js?v=' + serviceWorkerVersion;
-        var serviceWorkerUrl = './build/web/flutter_service_worker.js?v=' + serviceWorkerVersion;
+        var serviceWorkerUrl = './web/flutter_service_worker.js?v=' + serviceWorkerVersion;
         console.log(serviceWorkerUrl);
+        console.log(window.location.href);
         navigator.serviceWorker.register(serviceWorkerUrl)
           .then((reg) => {
             function waitForActivation(serviceWorker) {
