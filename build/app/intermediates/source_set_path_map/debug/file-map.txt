@@ -1,0 +1,23 @@
+com.example.fyp1.app-debug-0 C:\Danial Harith\FYP Psychometric Test\fyp1\android\app\src\debug\res
+com.example.fyp1.app-main-1 C:\Danial Harith\FYP Psychometric Test\fyp1\android\app\src\main\res
+com.example.fyp1.app-google-services-2 C:\Danial Harith\FYP Psychometric Test\fyp1\build\app\generated\res\google-services\debug
+com.example.fyp1.app-pngs-3 C:\Danial Harith\FYP Psychometric Test\fyp1\build\app\generated\res\pngs\debug
+com.example.fyp1.app-resValues-4 C:\Danial Harith\FYP Psychometric Test\fyp1\build\app\generated\res\resValues\debug
+com.example.fyp1.app-rs-5 C:\Danial Harith\FYP Psychometric Test\fyp1\build\app\generated\res\rs\debug
+com.example.fyp1.app-mergeDebugResources-6 C:\Danial Harith\FYP Psychometric Test\fyp1\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.fyp1.app-mergeDebugResources-7 C:\Danial Harith\FYP Psychometric Test\fyp1\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.fyp1.app-merged_res-8 C:\Danial Harith\FYP Psychometric Test\fyp1\build\app\intermediates\merged_res\debug
+com.example.fyp1.app-packaged_res-9 C:\Danial Harith\FYP Psychometric Test\fyp1\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.fyp1.app-packaged_res-10 C:\Danial Harith\FYP Psychometric Test\fyp1\build\connectivity_plus\intermediates\packaged_res\debug
+com.example.fyp1.app-packaged_res-11 C:\Danial Harith\FYP Psychometric Test\fyp1\build\firebase_analytics\intermediates\packaged_res\debug
+com.example.fyp1.app-packaged_res-12 C:\Danial Harith\FYP Psychometric Test\fyp1\build\firebase_auth\intermediates\packaged_res\debug
+com.example.fyp1.app-packaged_res-13 C:\Danial Harith\FYP Psychometric Test\fyp1\build\firebase_core\intermediates\packaged_res\debug
+com.example.fyp1.app-packaged_res-14 C:\Danial Harith\FYP Psychometric Test\fyp1\build\firebase_storage\intermediates\packaged_res\debug
+com.example.fyp1.app-jetified-window-1.0.0-beta04-15 C:\Users\dania\.gradle\caches\transforms-3\1d29c358c60d30d3090f4d057ae40dae\transformed\jetified-window-1.0.0-beta04\res
+com.example.fyp1.app-jetified-window-java-1.0.0-beta04-16 C:\Users\dania\.gradle\caches\transforms-3\4bdd212b1dcf60bdccc155e14c6a9641\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.fyp1.app-jetified-firebase-common-20.2.0-17 C:\Users\dania\.gradle\caches\transforms-3\7d010921f1454c07d93f7be667b86fba\transformed\jetified-firebase-common-20.2.0\res
+com.example.fyp1.app-core-1.6.0-18 C:\Users\dania\.gradle\caches\transforms-3\a347ea51ac1250a49557d3dc3b8421a6\transformed\core-1.6.0\res
+com.example.fyp1.app-browser-1.4.0-19 C:\Users\dania\.gradle\caches\transforms-3\a77ea336cea7dba9e5225c84a78433c4\transformed\browser-1.4.0\res
+com.example.fyp1.app-jetified-annotation-experimental-1.1.0-20 C:\Users\dania\.gradle\caches\transforms-3\b6931c57e35d66d929632119c0cf4bf5\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.fyp1.app-jetified-play-services-base-18.0.1-21 C:\Users\dania\.gradle\caches\transforms-3\e4c0aebded76b88992a3b03f69aaaf5e\transformed\jetified-play-services-base-18.0.1\res
+com.example.fyp1.app-jetified-play-services-basement-18.1.0-22 C:\Users\dania\.gradle\caches\transforms-3\e99c03cb7e45ec5c0800005c51830286\transformed\jetified-play-services-basement-18.1.0\res
