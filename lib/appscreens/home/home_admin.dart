@@ -223,7 +223,7 @@ class _AdminHomePageState extends State<AdminHomePage> {
             child: Column(
               children: [
                 const Text('Jumlah'),
-                const Text('312'),
+                const Text('289'),
               ],
             ),
           ),

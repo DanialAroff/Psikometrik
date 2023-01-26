@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 class AppColors {
   static const Color primary = Color(0xfff06543);
-  // static const Color primary = Color.fromARGB(255, 240, 101, 67);
   static const Color secondary = Color(0xffff7c5c);
   static const Color secondaryTransparent = Color(0xABFF7D5C);
   static const Color background1 = Color(0xFFF3F3F3);
@@ -16,5 +15,6 @@ class AppColors {
   static const Color text2 = Color(0xFF3B3B3B);
   static const Color dialogText = Color(0xff787878);
   static const Color option = Color(0xFFE89B2B);
+  static const Color option2 = Color.fromRGBO(255, 122, 85, 1);
   static const Color outlined = Color(0xFFE89B2B);
 }

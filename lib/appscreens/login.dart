@@ -5,7 +5,7 @@ import 'package:fyp1/services/internet_connection.dart';
 import 'package:fyp1/shared/constants.dart';
 import 'package:fyp1/shared/loading.dart';
 import 'package:fyp1/shared/dialogs.dart';
-import '../shared/appcolors.dart';
+import 'package:fyp1/shared/appcolors.dart';
 
 class LoginPage extends StatefulWidget {
   final Function toggleView;

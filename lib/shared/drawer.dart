@@ -50,7 +50,7 @@ class AppDrawer extends StatelessWidget {
             child: Column(
               children: [
                 menuItem(Icons.home_outlined, 'Laman Utama'),
-                menuItem(Icons.person_outline, 'Profil', onTap: () {
+                menuItem(Icons.badge_outlined, 'Profil', onTap: () {
                   Navigator.push(
                       context,
                       PageRouteBuilder(
@@ -87,6 +87,10 @@ class AdminAppDrawer extends StatelessWidget {
           children: [
             const SizedBox(height: 4.0),
             menuItem(Icons.home_outlined, 'Laman Utama', active: false),
+            menuItem(Icons.badge_outlined, 'Profil'),
+            menuItem(Icons.bar_chart, 'Analisis'),
+            menuItem(Icons.person_outline, 'Urus Pengguna'),
+            menuItem(Icons.assignment_outlined, 'Ujian'),
             menuItem(Icons.logout, 'Log Keluar', onTap: () {
               Dialogs().logOutConfirmation(context);
             })

@@ -256,7 +256,7 @@ class _PsychometricTestIMKState extends State<PsychometricTestIMK> {
                               if (states.contains(MaterialState.disabled)) {
                                 return AppColors.disabled;
                               } else {
-                                return AppColors.option;
+                                return AppColors.option2;
                               }
                             }),
                             shape: MaterialStateProperty.all(

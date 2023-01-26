@@ -1,5 +1,4 @@
 // import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:fyp1/appscreens/wrapper.dart';
@@ -7,7 +6,6 @@ import 'package:fyp1/models/user.dart';
 import 'package:fyp1/services/auth.dart';
 import 'package:fyp1/services/database.dart';
 import 'package:fyp1/shared/appcolors.dart';
-import 'package:fyp1/shared/constants.dart';
 import 'package:provider/provider.dart';
 import 'package:fyp1/models/user_id.dart';
 

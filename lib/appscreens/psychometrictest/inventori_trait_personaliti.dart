@@ -284,7 +284,7 @@ class _PsychometricTestITPState extends State<PsychometricTestITP> {
                                         .contains(MaterialState.disabled)) {
                                       return AppColors.disabled;
                                     } else {
-                                      return AppColors.option;
+                                      return AppColors.option2;
                                     }
                                   }),
                                   shape: MaterialStateProperty.all(
@@ -333,7 +333,7 @@ class _PsychometricTestITPState extends State<PsychometricTestITP> {
         style: ButtonStyle(
           backgroundColor: MaterialStateProperty.resolveWith((states) {
             if (states.contains(MaterialState.pressed)) {
-              return AppColors.option;
+              return AppColors.option2;
             } else {
               return Colors.white;
             }
@@ -342,11 +342,11 @@ class _PsychometricTestITPState extends State<PsychometricTestITP> {
             if (states.contains(MaterialState.pressed)) {
               return Colors.white;
             }
-            return AppColors.option;
+            return AppColors.option2;
           }),
           overlayColor: MaterialStateProperty.resolveWith((states) {
             if (states.contains(MaterialState.pressed)) {
-              return AppColors.option.withOpacity(0.5);
+              return AppColors.option2.withOpacity(0.5);
             }
             return Colors.transparent;
           }),

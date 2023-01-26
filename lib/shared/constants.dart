@@ -46,9 +46,9 @@ const List<String> personalityTypes = [
 ];
 
 OptionTheme yesTheme =
-    OptionTheme(backgroundColor: AppColors.option, icon: Icons.check);
+    OptionTheme(backgroundColor: AppColors.option2, icon: Icons.check);
 OptionTheme noTheme =
-    OptionTheme(backgroundColor: AppColors.option, icon: Icons.close);
+    OptionTheme(backgroundColor: AppColors.option2, icon: Icons.close);
 
 const emailInputDecoration = InputDecoration(
   prefixIcon: Icon(

@@ -58,7 +58,7 @@ class Option extends StatelessWidget {
             style: ButtonStyle(
               overlayColor: MaterialStateProperty.resolveWith((states) {
                 if (states.contains(MaterialState.pressed)) {
-                  return AppColors.option.withOpacity(0.5);
+                  return AppColors.option2.withOpacity(0.5);
                 }
                 return null;
               }),
