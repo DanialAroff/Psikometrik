@@ -1,6 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:fyp1/appscreens/error_screen.dart';
 import 'package:fyp1/main.dart';
 import 'package:fyp1/models/user.dart';
 import 'package:fyp1/services/database.dart';
@@ -158,7 +157,7 @@ class _StudentHomePageState extends State<StudentHomePage> {
                                   ],
                                 );
                               }
-                              return Container(
+                              return Container( // if no data on test scores
                                 constraints: const BoxConstraints(
                                   minHeight: 100,
                                 ),

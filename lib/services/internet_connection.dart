@@ -19,7 +19,7 @@ class ConnectivityStatus {
         _isConnectionSuccessful = response.statusCode == 200 ? true : false;
       }
     } on SocketException catch (e) {
-      debugPrint(e.toString());
+      debugPrint('internet_connection.dart@ $e');
       _isConnectionSuccessful = false;
     }
     return _isConnectionSuccessful;

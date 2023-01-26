@@ -221,9 +221,9 @@ class _AdminHomePageState extends State<AdminHomePage> {
                 color: AppColors.primary,
                 borderRadius: BorderRadius.all(Radius.circular(4.0))),
             child: Column(
-              children: [
-                const Text('Jumlah'),
-                const Text('289'),
+              children: const [
+                Text('Jumlah', style: TextStyle(color: Colors.white, fontSize: 20)),
+                Text('289', style: TextStyle(color: Colors.white, fontSize: 20)),
               ],
             ),
           ),
