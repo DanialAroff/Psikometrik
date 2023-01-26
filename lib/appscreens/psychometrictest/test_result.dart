@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fyp1/appscreens/home/home_student.dart';
+import 'package:fyp1/appscreens/wrapper.dart';
+import 'package:fyp1/main.dart';
 import 'package:fyp1/shared/appcolors.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 import 'package:page_transition/page_transition.dart';
@@ -122,8 +124,7 @@ class TestResultScreen extends StatelessWidget {
                           Navigator.pushAndRemoveUntil(
                             context,
                             PageTransition(
-                                child: const StudentHomePage(),
-                                // child: MyApp(),
+                                child: const Wrapper(),
                                 type: PageTransitionType.fade),
                             (route) => false,
                           );
