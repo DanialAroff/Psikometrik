@@ -92,7 +92,7 @@ class _LoginPageState extends State<LoginPage> {
                           child: TextFormField(
                             validator: (val) {
                               if (val != null && val.isEmpty) {
-                                'Sila masukkan emel';
+                                return 'Sila masukkan emel';
                               }
                               return null;
                             },
