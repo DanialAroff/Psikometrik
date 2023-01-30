@@ -1,12 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:fyp1/appscreens/home/home_student.dart';
 import 'package:fyp1/appscreens/wrapper.dart';
-import 'package:fyp1/models/user.dart';
 import 'package:fyp1/shared/appcolors.dart';
 import 'package:fyp1/shared/string_extension.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:fyp1/main.dart';
-import 'package:provider/provider.dart';
 
 class TestResultScreen extends StatelessWidget {
   final Map<String, dynamic> scores;

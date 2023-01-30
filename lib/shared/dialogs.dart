@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fyp1/appscreens/wrapper.dart';
-import 'package:fyp1/main.dart';
 import 'package:fyp1/services/auth.dart';
 import 'package:fyp1/shared/appcolors.dart';
-import 'package:page_transition/page_transition.dart';
 
 class Dialogs {
   // final void Function() confirmFunction;
