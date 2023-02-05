@@ -56,7 +56,7 @@ const emailInputDecoration = InputDecoration(
     color: AppColors.gray,
   ),
   isCollapsed: true,
-  labelText: 'Kata Laluan',
+  labelText: 'Emel',
   floatingLabelBehavior: FloatingLabelBehavior.never,
   focusedBorder: UnderlineInputBorder(
     borderSide: BorderSide(
