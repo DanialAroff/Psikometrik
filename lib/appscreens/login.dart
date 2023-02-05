@@ -20,6 +20,11 @@ class _LoginPageState extends State<LoginPage> {
   TextEditingController nameController = TextEditingController();
   TextEditingController passwordController = TextEditingController();
 
+  final List<FocusNode> _focusNodes = [
+    FocusNode(),
+    FocusNode(),
+  ];
+
   final AuthService _auth = AuthService();
   final _formKey = GlobalKey<FormState>();
   bool loading = false;
@@ -28,6 +33,16 @@ class _LoginPageState extends State<LoginPage> {
   String email = '';
   String password = '';
   String error = '';
+
+  @override
+  void initState() {
+    super.initState();
+    for (var node in _focusNodes) {
+      node.addListener(() {
+        setState(() {});
+      });
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -90,6 +105,7 @@ class _LoginPageState extends State<LoginPage> {
                           padding: EdgeInsets.symmetric(
                               vertical: 10, horizontal: 12),
                           child: TextFormField(
+                            focusNode: _focusNodes[0],
                             validator: (val) {
                               if (val != null && val.isEmpty) {
                                 return 'Sila masukkan emel';
@@ -106,7 +122,8 @@ class _LoginPageState extends State<LoginPage> {
                             cursorColor: AppColors.cursor,
                             cursorWidth: 1.6,
                             controller: nameController,
-                            decoration: emailInputDecoration,
+                            decoration:
+                                emailInputDecorationStateful(_focusNodes[0]),
                           ),
                         ),
 
@@ -114,6 +131,7 @@ class _LoginPageState extends State<LoginPage> {
                             padding: EdgeInsets.symmetric(
                                 vertical: 10, horizontal: 12),
                             child: TextFormField(
+                              focusNode: _focusNodes[1],
                               validator: (val) {
                                 if (val != null && val.length < 6) {
                                   return 'Sila masukkan kata laluan dengan panjang 6 karakter atau lebih';
@@ -131,7 +149,7 @@ class _LoginPageState extends State<LoginPage> {
                               cursorWidth: 1.6,
                               obscureText: true,
                               controller: passwordController,
-                              decoration: passwordInputDecoration,
+                              decoration: passWordInputDecorationStateful(_focusNodes[1]),
                             )),
 
                         SizedBox(

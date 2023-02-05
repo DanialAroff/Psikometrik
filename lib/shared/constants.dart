@@ -7,9 +7,9 @@ import 'appcolors.dart';
 const String primaryFont = 'Nunito Sans';
 
 final MyUser defaultUser = MyUser(
-    uid: '000000',
-    email: 'user@mail.com',
-    fullName: 'default',
+    uid: '000',
+    email: 'pelajar@mail.com',
+    fullName: 'pelajar',
     userRole: 'student');
 
 const Map<String, String> testCodeNames = {
@@ -64,6 +64,24 @@ const emailInputDecoration = InputDecoration(
     ),
   ),
 );
+InputDecoration emailInputDecorationStateful(FocusNode node) {
+  return InputDecoration(
+    prefixIcon: Icon(
+      Icons.email_outlined,
+      color: node.hasFocus ? AppColors.primary : AppColors.gray,
+      size: 24,
+    ),
+    isCollapsed: true,
+    labelText: 'Emel',
+    floatingLabelBehavior: FloatingLabelBehavior.never,
+    focusedBorder: const UnderlineInputBorder(
+      borderSide: BorderSide(
+        color: AppColors.primary,
+      ),
+    ),
+  );
+}
+
 const passwordInputDecoration = InputDecoration(
   prefixIcon: Icon(
     Icons.password_outlined,
@@ -78,6 +96,24 @@ const passwordInputDecoration = InputDecoration(
     ),
   ),
 );
+InputDecoration passWordInputDecorationStateful(FocusNode node) {
+  return InputDecoration(
+    prefixIcon: Icon(
+      Icons.password_outlined,
+      color: node.hasFocus ? AppColors.primary : AppColors.gray,
+      size: 24,
+    ),
+    isCollapsed: true,
+    labelText: 'Kata Laluan',
+    floatingLabelBehavior: FloatingLabelBehavior.never,
+    focusedBorder: const UnderlineInputBorder(
+      borderSide: BorderSide(
+        color: AppColors.primary,
+      ),
+    ),
+  );
+}
+
 final searchInputDecoration = InputDecoration(
   isDense: true,
   contentPadding: const EdgeInsets.all(1.0),

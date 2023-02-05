@@ -234,7 +234,7 @@ class _AdminHomePageState extends State<AdminHomePage> {
               const SizedBox(width: 8.0),
               _countCard('Inventori Kematangan Kerjaya', '200/200'),
               const SizedBox(width: 8.0),
-              _countCard('Inventori Kematangan Kerjaya', '200/200'),
+              _countCard('Inventori Trait Personaliti', '200/200'),
             ],
           ),
         ],
